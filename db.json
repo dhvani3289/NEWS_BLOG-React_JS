@@ -1,0 +1,148 @@
+{
+  "categories": [
+    {
+      "id": "5059",
+      "category": "Entertainment"
+    },
+    {
+      "id": "8b22",
+      "category": "Technology"
+    },
+    {
+      "id": "d13b",
+      "category": "Sports"
+    },
+    {
+      "id": "2703",
+      "category": "Business"
+    },
+    {
+      "id": "8644",
+      "category": "Health"
+    },
+    {
+      "id": "3262",
+      "category": "Science"
+    }
+  ],
+  "blogData": [
+    {
+      "id": "80a8",
+      "title": "The Best Movies of 2023",
+      "description": "A roundup of the top-rated films released this year, from critically acclaimed dramas to blockbuster action movies.",
+      "bloggerName": "Emily Davis",
+      "category": "Entertainment",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVs9NQJf9FuAO8y2NaasMqa7MAjrKIX4U8iA&s"
+    },
+    {
+      "id": "9518",
+      "title": "The Future of AI in Healthcare",
+      "category": "Technology",
+      "description": "Exploring how artificial intelligence is revolutionizing the medical field, from diagnosis to treatment.",
+      "bloggerName": "Alex Turner",
+      "image": "https://example.com/technology/ai-healthcare.jpg"
+    },
+    {
+      "id": "b37d",
+      "title": "The Greatest Athletes of All Time",
+      "category": "Sports",
+      "description": "A ranking of the most iconic and influential figures in sports history, from legends of the past to rising stars of today.",
+      "bloggerName": "Ben Thompson"
+    },
+    {
+      "id": "65f7",
+      "title": "The Top 10 Most Innovative Companies of 2024",
+      "description": "A list of the businesses that are leading the way in technology, sustainability, and other industries.",
+      "bloggerName": "Olivia Harris",
+      "category": "Business"
+    },
+    {
+      "id": "675c",
+      "title": "Healthy Eating Habits for a Better Lifestyle",
+      "category": "Health",
+      "description": "Tips and advice on how to make nutritious choices and improve your overall well-being.",
+      "bloggerName": "Michael Johnson",
+      "image": "a"
+    },
+    {
+      "id": "5004",
+      "title": "The Latest Discoveries in Space Exploration",
+      "category": "Science",
+      "description": "Updates on the latest missions, findings, and advancements in the field of space science.",
+      "bloggerName": "Sophia Lee",
+      "image": "a"
+    },
+    {
+      "id": "99b4",
+      "category": "Technology",
+      "title": "The Ethical Implications of AI",
+      "description": "A discussion of the potential benefits and risks of artificial intelligence, and how to ensure its responsible development.",
+      "bloggerName": "Alex Turner",
+      "image": "a"
+    },
+    {
+      "id": "16c1",
+      "category": "Sports",
+      "title": "The Greatest Moments in Olympic History",
+      "description": "A look back at some of the most iconic and memorable moments from the Summer and Winter Olympics.",
+      "bloggerName": "Ben Thompson",
+      "image": "a"
+    },
+    {
+      "id": "6b53",
+      "bloggerName": "Emily Davis",
+      "title": "Must-Watch TV Shows of 2024",
+      "description": "A guide to the most popular and critically acclaimed television series airing this year.",
+      "category": "Entertainment",
+      "image": "a"
+    },
+    {
+      "id": "bdf4",
+      "title": "The Future of Work: Remote vs. In-Office",
+      "category": "Business",
+      "description": "An analysis of the pros and cons of remote work and in-office work, and how the future of employment may look.",
+      "bloggerName": "Olivia Harris",
+      "image": "a"
+    },
+    {
+      "id": "02aa",
+      "title": "The Best Music Albums of 2023",
+      "category": "Entertainment",
+      "description": "A list of the top-rated music albums released this year, from chart-topping hits to critically acclaimed indie releases.",
+      "bloggerName": "Emily Davis",
+      "image": "a"
+    },
+    {
+      "id": "7254",
+      "title": "The Rise of Metaverse",
+      "category": "Technology",
+      "description": "Exploring the potential of the metaverse and its impact on various industries, from gaming to social media.",
+      "bloggerName": "Alex Turner",
+      "image": "a"
+    },
+    {
+      "id": "8d1d",
+      "title": "The Top 10 Most Popular Sports in the World",
+      "category": "Sports",
+      "description": "A ranking of the most widely played and followed sports across the globe.",
+      "bloggerName": "Ben Thompson",
+      "image": "a"
+    },
+    {
+      "id": "4346",
+      "title": "The Impact of Climate Change on the Global Economy",
+      "category": "Business",
+      "bloggerName": "Olivia Harris",
+      "description": "Analyzing how climate change is affecting businesses and industries around the world.",
+      "image": "a"
+    },
+    {
+      "id": "f9c3",
+      "title": "Mental Health Awareness and Support",
+      "category": "Health",
+      "bloggerName": "Michael Johnson",
+      "description": "Information and resources for individuals struggling with mental health issues and their loved ones.",
+      "image": "a"
+    }
+  ]
+}

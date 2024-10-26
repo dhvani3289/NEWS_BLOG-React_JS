@@ -1,0 +1,148 @@
+.container {
+    width: 1240px;
+    margin: 0px auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+.row a {
+    display: inline;
+}
+
+.col-1 {
+    width: 8.33%;
+}
+
+.col-2 {
+    width: 16.66%;
+}
+
+.col-3 {
+    width: 25%;
+}
+
+.col-4 {
+    width: 33.33%;
+}
+
+.col-5 {
+    width: 41.66%;
+}
+
+.col-6 {
+    width: 50%;
+}
+
+.col-7 {
+    width: 58.33%;
+}
+
+.col-8 {
+    width: 66.66%;
+}
+
+.col-9 {
+    width: 75%;
+}
+
+.col-10 {
+    width: 83.33%;
+}
+
+.col-11 {
+    width: 91.66%;
+}
+
+.col-12 {
+    width: 100%;
+}
+
+h2 {
+    margin: 0;
+}
+
+
+
+.header-bottom {
+    background-color: rgba(128, 128, 128, 0.212);
+    height: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+.header-bottom a:first-child {
+    margin-left: 10px;
+}
+
+.header-bottom a,
+.header-bottom button {
+    font-size: 18px;
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.763);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.header-bottom a:hover,
+.header-bottom button:hover {
+    border-bottom: 1px solid black;
+}
+
+
+.blog-card-wrap {
+    /* max-height: 450px; */
+    color: black;
+    margin: 5px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    background-color: #fff;
+}
+
+.blog-img img {
+    height: 200px;
+    width: 100%;
+}
+
+.blog-content {
+    padding: 10px;
+}
+
+.blog-content .title h2 {
+    text-transform: capitalize;
+}
+
+.blog-content .bloggerName {
+    color: rgb(130, 130, 130);
+    text-align: right;
+    text-transform: capitalize;
+    margin: 5px 8px 5px 0px;
+    font-size: 18px;
+}
+
+.blog-description {
+    font-size: 18px;
+}
+
+.readMore-btn {
+    margin: 10px 0px 4px;
+}
+
+.readMore-btn button {
+    border: none;
+    background-color: transparent;
+    text-transform: capitalize;
+    /* width: 100%; */
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
