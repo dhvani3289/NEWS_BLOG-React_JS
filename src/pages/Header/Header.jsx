@@ -5,8 +5,9 @@ function Header() {
     return (
         <>
             <div className='header'>
-                <div>
+                <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: "40px" }}>
                     <h2>News Geek</h2>
+                    <Link to="/">HOME</Link>
                 </div>
                 <div>
                     <Link to="/addCategory">ADD CATEGORY</Link>

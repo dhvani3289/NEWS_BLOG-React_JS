@@ -1,0 +1,19 @@
+.blogDetails {
+    background-color: #edf6f9;
+    height: 90vh;
+    text-align: center;
+}
+
+.blogDetails h1 {
+    margin: 0px;
+    padding: 40px;
+    text-align: center;
+}
+
+.blogDetails span{
+    font-size: 30px;
+}
+
+.blogDetails span a{
+    text-decoration: underline;
+}

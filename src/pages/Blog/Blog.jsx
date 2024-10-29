@@ -68,8 +68,6 @@ function Blog() {
                         <tr>
                             <td>Category</td>
                             <td>
-
-
                                 <select name="category" onChange={(e) => handleChange(e)}>
 
                                     {category.map((v, i) => {
@@ -78,12 +76,6 @@ function Blog() {
                                         )
                                     })
                                     }
-
-                                    {/* <option value="technology">Technology</option>
-                                    <option value="sports">Sports</option>
-                                    <option value="business">Business</option>
-                                    <option value="health">Health</option>
-                                    <option value="science">Science</option> */}
                                 </select>
                             </td>
                         </tr>
